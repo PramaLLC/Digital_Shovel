@@ -1,0 +1,17 @@
+flask==3.0.2
+trafilatura==1.7.0
+gnews==0.2.2
+torch==2.2.1
+numpy
+opencv-python==4.9.0.80
+sentence-transformers==2.5.1
+webdriver-manager==4.0.1
+selenium==4.18.1
+setuptools==58.1.0
+firebase-admin==6.5.0
+pymongo==3.12.3
+python-dotenv
+rembg
+scipy
+keras-ocr
+requests

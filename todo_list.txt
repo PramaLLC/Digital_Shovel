@@ -1,0 +1,15 @@
+
+
+support text
+
+keep duck duck go and implement google chrome collection images 
+
+
+keep start and end for the main for loop
+
+create docker images
+
+make sure to skip images or websites that ban scrapers 
+
+
+
